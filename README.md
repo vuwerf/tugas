@@ -1,0 +1,2 @@
+# tugas
+blog pribadi
